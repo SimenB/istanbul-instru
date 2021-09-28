@@ -1,0 +1,12 @@
+{
+  "name": "istanbul-intru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "babel-plugin-istanbul": "^6.0.0",
+    "istanbul-lib-instrument4": "npm:istanbul-lib-instrument@^4.0.3",
+    "istanbul-lib-instrument5": "npm:istanbul-lib-instrument@^5.0.2"
+  }
+}
